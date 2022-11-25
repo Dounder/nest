@@ -1,0 +1,9 @@
+[submodule "todo-rest"]
+	path = todo-rest
+	url = git@github.com:Dounder/todo-app-nest.git
+[submodule "todo-gql"]
+	path = todo-gql
+	url = git@github.com:Dounder/todo-nest-graphql.git
+[submodule "postgresql-graphql"]
+	path = postgresql-graphql
+	url = git@github.com:Dounder/n-pg-gql.git
