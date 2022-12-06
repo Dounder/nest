@@ -7,3 +7,6 @@
 [submodule "postgresql-graphql"]
 	path = postgresql-graphql
 	url = git@github.com:Dounder/n-pg-gql.git
+[submodule "mongo-gql"]
+	path = mongo-gql
+	url = git@github.com:Dounder/n-mongo-gql.git
