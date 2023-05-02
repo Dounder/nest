@@ -10,3 +10,6 @@
 [submodule "mongo-gql"]
 	path = mongo-gql
 	url = git@github.com:Dounder/n-mongo-gql.git
+[submodule "drello"]
+	path = drello
+	url = git@github.com:Dounder/drello-backend.git
