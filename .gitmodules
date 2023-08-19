@@ -13,3 +13,6 @@
 [submodule "drello"]
 	path = drello
 	url = git@github.com:Dounder/drello-backend.git
+[submodule "rest-postgres"]
+	path = rest-postgres
+	url = git@github.com:Dounder/nest-pg-rest-boilerplate.git
