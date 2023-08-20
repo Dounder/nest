@@ -16,3 +16,6 @@
 [submodule "rest-postgres"]
 	path = rest-postgres
 	url = git@github.com:Dounder/nest-pg-rest-boilerplate.git
+[submodule "rest-mongo"]
+	path = rest-mongo
+	url = git@github.com:Dounder/nest-mongo-rest-boilerplate.git
