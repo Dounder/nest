@@ -19,3 +19,6 @@
 [submodule "rest-mongo"]
 	path = rest-mongo
 	url = git@github.com:Dounder/nest-mongo-rest-boilerplate.git
+[submodule "snapshot"]
+	path = snapshot
+	url = git@github.com:Dounder/snapshot-api.git
